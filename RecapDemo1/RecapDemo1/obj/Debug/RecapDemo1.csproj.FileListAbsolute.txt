@@ -1,0 +1,7 @@
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\efkan.gurgen.ARVENTO\source\repos\RecapDemo1\RecapDemo1\obj\Debug\RecapDemo1.pdb
